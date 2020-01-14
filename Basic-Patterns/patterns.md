@@ -1,0 +1,1 @@
+Various patterns display
